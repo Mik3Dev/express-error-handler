@@ -1,5 +1,5 @@
 {
-  "name": "@mik3dev/express-error-handler",
+  "name": "@mik3dev-libs/express-error-handler",
   "version": "1.0.0",
   "description": "Error handler and responses for express apps",
   "main": "./build/index.js",
